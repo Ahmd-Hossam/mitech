@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){$("#owl-demo").owlCarousel({items:4,itemsDesktop:[1e3,3],itemsDesktopSmall:[900,3],itemsTablet:[600,1],itemsMobile:!1});var e=0;$(".slider .main .item").each(function(){e=$(this).height()+40}),$(".slider .main .item").each(function(){$(this).css("height",e)})});
